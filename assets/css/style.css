@@ -301,7 +301,7 @@ article.active {
 \*-----------------------------------*/
 
 main {
-  margin: 15px 12px;
+  margin: 75px 12px;
   margin-bottom: 75px;
   min-width: 259px;
 }
@@ -456,7 +456,7 @@ main {
 
 .navbar {
   position: fixed;
-  bottom: 0;
+  top: 0;
   left: 0;
   width: 100%;
   background: hsla(240, 1%, 17%, 0.75);
@@ -1318,7 +1318,7 @@ textarea.form-input::-webkit-resizer { display: none; }
    */
 
   main {
-    margin-top: 60px;
+    margin-top: 100px;
     margin-bottom: 100px;
   }
 
